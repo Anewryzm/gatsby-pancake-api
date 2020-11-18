@@ -15,6 +15,7 @@
     "ts-node": "^9.0.0"
   },
   "scripts": {
+    "dev": "vercel dev",
     "test": "jest --watch",
     "coverage": "jest --coverage"
   }
